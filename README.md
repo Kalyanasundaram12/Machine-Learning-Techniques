@@ -1,1 +1,1 @@
-# Housing-price-prediction
+# Mchine Learning Techniques
